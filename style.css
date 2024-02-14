@@ -175,3 +175,11 @@ body{
     height: 500; 
     animation: up 3s linear infinite;
 }
+
+#copyright {
+    position: absolute;
+    font-size: 24px;
+    color: black;
+    bottom: 2%;
+    left: 2%;
+}
